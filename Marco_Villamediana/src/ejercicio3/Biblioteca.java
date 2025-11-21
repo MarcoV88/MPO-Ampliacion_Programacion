@@ -1,4 +1,4 @@
-package Biblioteca;
+package ejercicio3;
 
 import java.util.ArrayList;
 
